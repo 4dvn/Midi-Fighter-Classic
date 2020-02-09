@@ -1,6 +1,6 @@
 Midi_Fighter_Classic
 ====================
-
+![Image description]https://djtechtools.com/wp-content/uploads/2009/11/SIDE-VIEW_MIDIFIGHTER-KIT.jpg
 Midi Fighter Classic Firmware
 
 Notes:
