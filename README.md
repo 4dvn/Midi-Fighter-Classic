@@ -33,6 +33,9 @@ https://github.com/qmk/qmk_toolbox/releases
 https://github.com/tttapa/Control-Surface/releases
 https://github.com/arduino-libraries/MIDIUSB/releases
 ```
+# Schematic
+![Image description](https://github.com/4dvn/Midi_Fighter_24/blob/master/Schematic/Button-matrix.png)
+
 ## Contributors
 
 Thanks to the following people who have contributed to this project:
